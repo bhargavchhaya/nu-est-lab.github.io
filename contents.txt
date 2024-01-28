@@ -17,9 +17,9 @@ Home page Sections:
  	- Title : Nu-EST Lab
  	- Professor Image
  	- Description: Paragrapgh
+ 		- Email
  		- Specialisation
  		- Qualification
- 		- Email
  		- Social Links
  - Latest News - 3 pointer
  - Latest Publications to highlight - 3 pointer
