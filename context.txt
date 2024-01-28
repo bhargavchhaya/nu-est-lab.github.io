@@ -1,0 +1,47 @@
+Contents Structure:
+
+Menu Bar:
+ - Logo text: Nu-EST Lab
+ - Links:
+   	- Home
+   	- Research - home page section highlight
+   	- Publications - home page section highlight
+   	- Facilities 
+   	- News - home page section highlight
+   	- Members
+
+Home page Sections:
+ - Banner
+ 	- Title: Nuclear Energy Systems Transport Laboratory 
+ - Introductory Text - Nu-EST Lab
+ 	- Title : Nu-EST Lab
+ 	- Professor Image
+ 	- Description: Paragrapgh
+ 		- Specialisation
+ 		- Qualification
+ 		- Email
+ 		- Social Links
+ - Latest News - 3 pointer
+ - Latest Publications to highlight - 3 pointer
+ - Key Team members -  3 Key members
+ - Contact us
+
+Research Page Sections:
+ - Banner
+ - Sections with descriptions
+ 
+News Page Sections:
+ - Banner
+ - All the news in descending order of date (10 pointers with read more link), latest ones on top
+ - Contact us
+ 
+Publications page Sections:
+ - Banner
+ - In page quick to section buttons
+ - Sections
+ 	- Text with 5 pointers and read more link
+
+Members page Sections:
+ - Banner
+ - Member section with Title, headline, Social links, description
+ - Contact us
