@@ -304,7 +304,15 @@ header .navbar {
 	background-repeat: no-repeat;
 	background-position: center center;
 }
-
+.overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.5); /* Adjust the alpha (fourth value) for transparency */
+    }
+    
 .banner-item-02 {
 	padding: 300px 0px;
 	background-image: url(../images/slider-image-2-1920x600.jpg);
@@ -827,7 +835,29 @@ footer .inner-content p a {
 .owl-clients button.owl-dot.active { 
 	background: #f33f3f!important; 
 }
-
+/* Publication */
+.publications{
+	margin-top: 10px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 100px 0px;
+}
+.news{
+	margin-top: 10px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 100px 0px;
+}
+.news .section-heading h2 { 
+	color: #fff; 
+}
+.publications .section-heading h2 { 
+	color: #fff; 
+}
 /* Clients */
 
 .happy-clients {
@@ -988,7 +1018,23 @@ footer .inner-content p a {
 	margin-bottom: 45px;
 }
 
+/* UI List */
+.custom-list {
+      list-style-type: none;
+      padding: 0;
+    }
 
+    .custom-list-item:before {
+      content: "\25A0"; /* Unicode character for a square */
+      color: #021122; /* Change color as needed */
+      display: inline-block;
+      width: 1em;
+      margin-right: 0.5em; /* Adjust the spacing between the square and content */
+    }
+
+    .custom-list-item h4 {
+      display: inline; /* Make h4 display as inline to align with the square */
+    }
 /* Responsive Style */
 @media (max-width: 768px) {
 	.banner .text-content {
