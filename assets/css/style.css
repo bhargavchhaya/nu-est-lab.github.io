@@ -475,7 +475,7 @@ header .navbar {
 }
 
 .about-features p {
-	border-bottom: 1px solid #eee;
+	/* border-bottom: 1px solid #eee; */
 	padding-bottom: 20px;
 }
 
@@ -856,7 +856,7 @@ footer .inner-content p a {
 	color: #fff; 
 }
 .publications .section-heading h2 { 
-	color: #fff; 
+	color: #c4c0c0; 
 }
 /* Clients */
 
