@@ -7,10 +7,10 @@ body {
 }
 p {
 	margin-bottom: 0px;
-	font-size: 14px;
-	font-weight: 300;
+	font-size: 18px;
+	font-weight: 400;
 	color: #4a4a4a;
-	line-height: 24px;
+	line-height: 30px;
 }
 a {
 	text-decoration: none!important;
@@ -82,7 +82,7 @@ a.filled-button:hover {
 }
 
 .page-heading {
-	padding: 210px 0px 130px 0px;
+	padding: 210px 0px 75px 0px;
 	text-align: center;
 	background-position: center center;
 	background-repeat: no-repeat;
