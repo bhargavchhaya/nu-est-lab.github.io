@@ -535,11 +535,11 @@ header .navbar {
 }
 
 .best-features ul.featured-list li a:hover {
-	color: #f33f3f;
+	color: none;
 }
 
 .best-features ul.featured-list li a:hover::before {
-	background-color: #f33f3f;
+	background-color: none;
 }
 
 .best-features .filled-button {
